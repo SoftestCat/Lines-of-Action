@@ -22,7 +22,7 @@ O branco ganha nesta posição, pois tem toas as suas peças ligadas entre si
 Considere esta posição:
 - WHITE TO MOVE
 
-	B B • • • • • •			  B B • • • • • •					
+	B B • • • • • •			  B B • • • • • •
 	W • B B B • • •		W 	  • • B B B • • •
 	• • • • • B • •  (1,0) -> (4,0)   • • • • • B • •	
 	• • • • W • • • ----------------> • • • • W • • •
